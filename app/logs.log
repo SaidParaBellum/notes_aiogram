@@ -1,0 +1,22 @@
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @TopMagazine_bot id=7272731303 - 'Magazine'
+INFO:aiogram.dispatcher:Polling stopped for bot @TopMagazine_bot id=7272731303 - 'Magazine'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @TopMagazine_bot id=7272731303 - 'Magazine'
+INFO:aiogram.event:Update id=870833168 is handled. Duration 375 ms by bot id=7272731303
+INFO:aiogram.dispatcher:Polling stopped for bot @TopMagazine_bot id=7272731303 - 'Magazine'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @TopMagazine_bot id=7272731303 - 'Magazine'
+INFO:aiogram.event:Update id=870833169 is handled. Duration 407 ms by bot id=7272731303
+INFO:aiogram.dispatcher:Polling stopped for bot @TopMagazine_bot id=7272731303 - 'Magazine'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @TopMagazine_bot id=7272731303 - 'Magazine'
+INFO:aiogram.event:Update id=870833170 is handled. Duration 405 ms by bot id=7272731303
+INFO:aiogram.event:Update id=870833171 is handled. Duration 469 ms by bot id=7272731303
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @TopMagazine_bot id=7272731303 - 'Magazine'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:aiogram.dispatcher:Polling stopped for bot @TopMagazine_bot id=7272731303 - 'Magazine'
